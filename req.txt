@@ -1,0 +1,4 @@
+subprocess
+pyautogui
+configparser
+pyinstaller
